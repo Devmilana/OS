@@ -3,9 +3,7 @@
 Part of my Software Engineering degree at Curtin University Colombo in 2024.
 
 This unit focused on **core Operating System concepts** such as **process management, memory management, file systems, and security**. 
-My final mark was **83**.
-
-There’s no proper commit history because it wasn’t developed using GitHub.
+My final mark was **83%**.
 
 ---
 
